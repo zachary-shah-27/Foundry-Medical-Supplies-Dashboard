@@ -1,7 +1,7 @@
 # Zachary Shah
 
 
-https://github.com/zachary-shah-27/Foundry-Medical-Supplies-Dashboard/blob/main/Shah_whole_dashboard.png
+![alt text](https://github.com/zachary-shah-27/Foundry-Medical-Supplies-Dashboard/blob/main/Shah_whole_dashboard.png "whole dashboard")
 
 https://github.com/zachary-shah-27/Foundry-Medical-Supplies-Dashboard/blob/main/Shah_Under_watch.png
 
